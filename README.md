@@ -13,7 +13,7 @@ This project downloads and analyzes declassified documents related to the JFK as
 1. Clone this repository
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
 3. Set your OpenAI API key as an environment variable:
    ```bash
